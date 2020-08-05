@@ -1,0 +1,21 @@
+.signup{
+    height: calc(100vh - 60px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-submission{
+    text-align:center;
+}
+
+.signup-submission button{
+    padding: 10px 30px;
+    font-size: 1.2rem;
+    background-color: #0f4c75;
+    border:none;
+    border-radius: 10px;
+    font-weight: 600;
+    color:white;
+
+}

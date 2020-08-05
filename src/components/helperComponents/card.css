@@ -1,0 +1,21 @@
+.card{
+    padding: 15px 20px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.card-header{
+    border-bottom:1px solid black;
+    text-align: center;
+    padding-bottom:10px;
+    font-weight: 300;
+}
+
+.card-header h1{
+    font-weight: 400;
+}
+
+.card-body{
+    padding:20px 0;
+}
